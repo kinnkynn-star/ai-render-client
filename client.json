@@ -1,0 +1,10 @@
+{
+  "client_id": "https://kinnkynn-star.github.io/ai-render-client/client.json",
+  "client_name": "AI Render (87DEGREES)",
+  "client_uri": "https://kinnkynn-star.github.io/ai-render-client/",
+  "redirect_uris": ["http://localhost:53682/callback", "http://127.0.0.1:53682/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "openid offline_access"
+}
